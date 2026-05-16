@@ -2,8 +2,8 @@
 #include <ESP32Servo.h>
 
 // WiFi credentials
-const char* ssid = "YK";
-const char* password = "abcd1234";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 WiFiServer server(80);
 
